@@ -41,7 +41,7 @@ entire installation process runs itself until the end.
 
 ### Step 6: download pbx configuration into the server
 
-1. ssh into the server using "root" / "Nethesis,1234" as credentials
+1. ssh into the server using "root" as username and the password chosen in the wizard
 ```
 ssh root@<SERVER_IP>
 ```
