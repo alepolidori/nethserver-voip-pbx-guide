@@ -61,6 +61,10 @@ You can register any physical, softphone or webrtc phone and make your test.
 
 It is possible to connect NethServer VoIP PBX to the external PSTN network to call any analogue or mobile phone, but a more advanced configuration is needed.
 
+## Other info
+
+NethServer VoIP PBX is the open source part of more advanced NethServer NethVoice PBX produced by Nethesis.
+
 ## Links
 
 - NethServer FreePBX: http://docs.nethserver.org/en/v7/freepbx.html
