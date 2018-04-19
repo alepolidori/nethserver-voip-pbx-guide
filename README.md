@@ -63,7 +63,7 @@ It is possible to connect NethServer VoIP PBX to the external PSTN network to ca
 
 ## Other info
 
-NethServer VoIP PBX is the open source part of [NethVoice PBX](https://www.nethvoice.it/?lang=en) produced by [Nethesis](http://www.nethesis.it/).
+NethServer VoIP PBX is the open source part of [NethVoice PBX](https://www.nethvoice.it/?lang=en) produced by [Nethesis.](http://www.nethesis.it/)
 
 ## Links
 
