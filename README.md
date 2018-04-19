@@ -45,11 +45,11 @@ entire installation process runs itself until the end.
 ```
 ssh root@<SERVER_IP>
 ```
-1. download the pbx configuration
+2. download the pbx configuration
 ```
 cd /root && wget https://raw.githubusercontent.com/alepolidori/nethserver-voip-pbx-guide/master/pbx_config.sql
 ```
-1. execute
+3. execute
 ```
 /usr/bin/mysql --force asterisk < pbx_config.sql 2> /dev/null && /usr/bin/scl enable rh-php56 "/usr/sbin/fwconsole reload"
 ```
