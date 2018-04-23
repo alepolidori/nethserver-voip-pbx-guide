@@ -59,6 +59,8 @@ cd /root && wget https://raw.githubusercontent.com/alepolidori/nethserver-voip-p
 At the end of the "installatation & configuration" you have a working VoIP PBX with only three PJSIP extensions ready to use.
 You can register any physical, softphone or webrtc phone and make your test.
 
+Three PJSIP extensions are 200, 201 and 202 and their passwords are "jsday".
+
 It is possible to connect NethServer VoIP PBX to the external PSTN network to call any analogue or mobile phone, but a more advanced configuration is needed.
 
 ## Other info
